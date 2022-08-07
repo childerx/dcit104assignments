@@ -2,7 +2,7 @@
 
 public class sumPrime {
     public static void main(String[] args) {
-        SumOfPrime(20);
+        SumOfPrime(10);
 
     }
 
