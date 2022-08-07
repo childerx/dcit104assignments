@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         float gpa = (float) 3.7;
-        String gender = "male";
+        String gender = "female";
         if (gpa >= 3.6) {
             if (gender == "female") {
                 System.out.println("You qualify for this selection");
