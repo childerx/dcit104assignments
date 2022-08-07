@@ -2,8 +2,11 @@
 
 public class Main {
     public static void main(String[] args) {
-        float gpa = (float) 3.7;
-        String gender = "female";
+        SelectGirl((float) 3.7, "female");
+        
+    }
+    
+     static void SelectGirl(float gpa, String gender) {
         if (gpa >= 3.6) {
             if (gender == "female") {
                 System.out.println("You qualify for this selection");
@@ -13,6 +16,5 @@ public class Main {
         } else {
             System.out.println("You don't qualify for this selection");
         }
-
     }
 }
