@@ -1,4 +1,4 @@
-// A program to calculate for thew sum of elements in a given array
+// A program to calculate for thew sum of elements in a given array   by;(Abu Nana Kwame Isaac- 10974843)
 
 public class Arrays {
     public static void main(String[] args) {
