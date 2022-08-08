@@ -1,4 +1,4 @@
-// A code to calculate for the Average of even numbers between 1 and 1000;
+// A code to calculate for the Average of even numbers between 1 and 1000;    by;(Abu Nana Kwame Isaac- 10974843)
 
 public class EvenAverage {
     public static void main(String[] args) {
