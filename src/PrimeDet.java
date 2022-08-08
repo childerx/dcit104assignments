@@ -1,4 +1,4 @@
-// A code to check whether, a number is prime; returns a boolean answer
+// A code to check whether, a number is prime; returns a boolean answer  by;(Abu Nana Kwame Isaac- 10974843)
 
 public class PrimeDet {
     public static void main(String[] args) {
