@@ -1,4 +1,4 @@
-// A code to sum all prime numbers preceeding a given number; returns an integer
+// A code to sum all prime numbers preceeding a given number; returns an integer     by;(Abu Nana Kwame Isaac- 10974843)
 
 public class sumPrime {
     public static void main(String[] args) {
