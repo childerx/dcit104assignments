@@ -1,4 +1,4 @@
-// A code using switching cases to print out corresponding complements for various grades
+// A code using switching cases to print out corresponding complements for various grades     by;(Abu Nana Kwame Isaac- 10974843)
 
 public class switchCase {
     public static void main(String[] args) {
