@@ -1,4 +1,4 @@
-// A code to select a female first class student in the university for a scholarship
+// A code to select a female first class student in the university for a scholarship    by;(Abu Nana Kwame Isaac- 10974843)
 
 public class Main {
     public static void main(String[] args) {
