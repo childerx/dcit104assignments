@@ -1,4 +1,4 @@
-// Using loops to print series of even numbers between 0 and 40
+// Using loops to print series of even numbers between 0 and 40     by;(Abu Nana Kwame Isaac- 10974843)
 
 public class LoopsCC {
     public static void main(String[] args) {
