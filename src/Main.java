@@ -3,9 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        int[] arr = {6, 5, 13, 8};
+        int[] arr = {};
         PopStanDev(arr);
-//        SampleStanDev(arr);
+        SampleStanDev(arr);
 
     }
     // Population Standard Deviation
