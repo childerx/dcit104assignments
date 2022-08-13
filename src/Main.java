@@ -1,4 +1,4 @@
-// A program to calculate for Population Standard Deviation
+// A program to calculate for Population and Sample Standard Deviations
 
 public class Main {
     public static void main(String[] args) {
@@ -23,7 +23,7 @@ public class Main {
         float sumNum = 0; // represents the numerator of the standard deviation formulae
         for (int i = 0; i < arr.length; i++) {
             float numb = (arr[i] - (average));
-            float number = (numb * numb); // calculates the square of (Xi-Mean)
+            float number = (numb * numb); // this computes the square of (Xi-Mean)
             sumNum =  (sumNum + number);
         }
 
